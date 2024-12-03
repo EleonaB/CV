@@ -1,0 +1,18 @@
+
+body {
+    text-align: center;
+}
+article {
+    background-color: rgb(247, 255, 207);
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+li{
+list-style-position: inside;
+}
+nav{
+    background-color: rgb(247, 255, 207);
+    border: 1px solid black;
+    margin-bottom: 30px;    b
+}
