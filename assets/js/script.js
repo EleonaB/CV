@@ -1,1 +1,3 @@
-console.log("Bienvenue sur la page d'exemple !");
+H2{
+    mouseover: background-color: rgb(204, 236, 241);
+}
