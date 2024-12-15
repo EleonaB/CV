@@ -1,19 +1,35 @@
-
 body {
     text-align: center;
+    background-color: rgb(121, 221, 246);
 }
 article {
-    background-color: rgb(247, 255, 207);
+    background-color: rgb(175, 244, 255);
     border: 1px solid black;
     margin-bottom: 30px;
     border-radius: 30px;
+    padding: 20px;
+    text-align: center;
 }
 li{
-list-style-position: inside;
+    list-style-position: inside;
 }
 nav{
-    background-color: rgb(247, 255, 207);
     border: 1px solid black;
     margin-bottom: 30px;    
     border-radius: 30px;
+}
+body {
+    text-align: center;
+}
+}
+li{
+    list-style-position: inside;
+}
+nav{
+    background-color: rgb(175, 244, 255);
+    border: 1px solid black;
+    margin-bottom: 30px;    
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
